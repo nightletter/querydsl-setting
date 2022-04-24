@@ -1,0 +1,13 @@
+package me.nightletter.test;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GradleSettingApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(GradleSettingApplication.class, args);
+    }
+
+}
